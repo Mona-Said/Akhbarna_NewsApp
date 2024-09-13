@@ -20,7 +20,7 @@ class NewsLayoutScreen extends StatelessWidget {
         return Scaffold(
           appBar: AppBar(
             title: const Text(
-              'Akhbarnaaaaaaa',
+              'Akhbarna',
             ),
             actions: [
               IconButton(
