@@ -3,8 +3,6 @@
 Akhbarna news app provides users with access to the latest news and information from various sources, covering topics such as business, sports, science, technology, and more.
 
 
-A few resources to get you started if this is your first Flutter project:
-
 These are screens of my application:
 <p>
   <img src="https://github.com/user-attachments/assets/18238128-5077-48b5-a8aa-ff969dd67867" width="300" style="margin-right: 20;" />
