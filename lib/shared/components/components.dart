@@ -33,25 +33,6 @@ Widget defaultButton({
       ),
     );
 
-Widget textButton({
-  required String text,
-  required VoidCallback function,
-  Color? color,
-  double? fontSize,
-  FontWeight? fontWeight,
-}) =>
-    TextButton(
-      onPressed: function,
-      child: Text(
-        text,
-        style: TextStyle(
-          color: color,
-          fontSize: fontSize,
-          fontWeight: fontWeight,
-        ),
-      ),
-    );
-
 Widget formField({
   required TextEditingController controller,
   required String label,
