@@ -33,7 +33,7 @@ ThemeData lightTheme = ThemeData(
     ),
   ),
   fontFamily: 'Jannah',
-  primarySwatch: Colors.deepOrange,
+  colorSchemeSeed: Colors.deepOrange,
 );
 ThemeData darkTheme = ThemeData(
   appBarTheme: AppBarTheme(
@@ -66,5 +66,5 @@ ThemeData darkTheme = ThemeData(
     ),
   ),
   fontFamily: 'Jannah',
-  primarySwatch: Colors.deepOrange,
+  colorSchemeSeed: Colors.deepOrange,
 );
