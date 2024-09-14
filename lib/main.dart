@@ -5,7 +5,6 @@ import 'package:akhbarna/shared/network/remote/dio_helper_news_app.dart';
 import 'package:akhbarna/shared/styles/themes.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-
 import 'layout/cubit/cubit.dart';
 import 'layout/cubit/cubit2.dart';
 import 'layout/cubit/states2.dart';
