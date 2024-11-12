@@ -1,8 +1,8 @@
 # akhbarna
 
-News Application
+## News Application
 
-Akhbarna news app provides users with access to the latest news and information from various sources, covering topics such as business, sports, science, technology, and more.
+### Akhbarna news app provides users with access to the latest news and information from various sources, covering topics such as business, sports, science, technology, and more.
 
 
 These are screens of my application:
